@@ -3,6 +3,8 @@ HarlemDroid
 
 An useful Harlem Shake library for your boring app, made in few hours during the #droidcon #hackaton at #skillsmatter (ouch! no hastag support in github).
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/IW6N6xAvTmU/0.jpg)](http://www.youtube.com/watch?v=IW6N6xAvTmU)
+
 ### Purpose of this library:
 
 Fun.
